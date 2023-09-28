@@ -1,25 +1,45 @@
-# Foam Note Templates
+# Texas Local Park Grants Programs Manual
+### Texas Parks & Wildlife Department
+### Recreation Grants Branch
 
-Foam includes note templates! 
-This allows you to easily create notes that have similar structure without having to use copy/paste :)
+Version: January 25, 2008
 
-Templates support the [VS Code's Snippet Syntax](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax), which means you can:
-- add variables to the newly created note
-- add tabstop to automatically navigate to the key parts of the note, just like a form
-Below you can see an example showing a todo list and a timestamp.
-
-## Todo List
-
-1. First tabstop
-2. A second tabstop
-3. A third tabstop
-
-Note Created: 2023-09-28
-
----
-
-Try out the above example by running the `Foam: Create New Note From Template` command and selecting the `your-first-template` template. Notice what happens when your new note is created!
-
-To remove this template, simply delete the `.foam/templates/your-first-template.md` file.
-
-Enjoy!
+## Table of Contents
+- [[600 General Program Information]]
+  - [[600.1 Program Summary]]
+  - [[600.2 Legislative Basis]]
+  - [[600.5 Definitions]]
+- [[640 Acquisition & Development]]
+  - [[640.1 General Project Criteria]]
+  - [[640.2 Acquisition Criteria]]
+  - [[640.3 Development Criteria]]
+  - [[640.4 Community Outdoor Outreach Program Criteria]]
+- [[650 Project Compliance]]
+  - [[650.1 General Compliance]]
+  - [[650.2 Environmental Compliance (NEPA)]]
+  - [[650.2A TPWD Environmental Policy]]
+  - [[650.4 Cultural, Archaeological & Historical Preservation]]
+  - [[640.4A The Antiquities Code of Texas]]
+  - [[650.6 National Flood Insurance Program]]
+  - [[650.7 Floodplains and Wetlands]]
+  - [[650.8 Texas Review & Comment System (TRACS)]]
+  - [[650.9 Title VI (Equal Opportunity) Guidelines]]
+- [[660 Application & Evaluation Procedures]]
+  - [[660.2 Application, Agreement & Amendment Procedures]]
+  - [[660.4 Open Project Selection Process]]
+  - [[660.5 Evaluation Criteria]]
+- [[670 Cost Principles]]
+  - [[670.1 General Cost Principles]]
+  - [[670.2 Donation Matching Share Policies]]
+  - [[670.3 Allowable Costs]]
+- [[675 Project Administration]]
+  - [[675.1 General Administration Requirements]]
+  - [[675.1A Summary of Guidelines for Administration of Texas local park grant programs]]
+  - [[675.1B Summary of Guidelines for Administration of Community Outdoor Outreach Program Projects]]
+  - [[675.2 Acquisition Methods & Appraisals]]
+  - [[675.4 Project Acknowledgement Sign Standards]]
+  - [[675.5 Financial Management & Reporting]]
+  - [[675.5A Texas Uniform Grant & Contract Management Act of 1981]]
+  - [[675.7 Audits]]
+  - [[675.8 Project Termination/Compliance]]
+  - [[675.9 Post-Completion Responsibilities/Conversion Guidelines]]
