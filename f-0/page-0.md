@@ -6,9 +6,9 @@ Version: January 25, 2008
 
 ## Table of Contents
 - [[600 General Program Information]]
-  - [[600.1 Program Summary]]
-  - [[600.2 Legislative Basis]]
-  - [[600.5 Definitions]]
+  - [[600 General Program Information#600.1 Program Summary|600.1 Program Summary]]
+  - [[600 General Program Information#600.2 Legislative Basis|600.2 Legislative Basis]]
+  - [[600 General Program Information#600.5 Definitions|600.5 Definitions]]
 - [[640 Acquisition & Development]]
   - [[640.1 General Project Criteria]]
   - [[640.2 Acquisition Criteria]]

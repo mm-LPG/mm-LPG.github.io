@@ -1,7 +1,7 @@
 # 600 General Program Information
 - [[600 General Program Information#600.1 Program Summary|600.1 Program Summary]]
 - [[600 General Program Information#600.2 Legislative Basis|600.2 Legislative Basis]]
-- [[600 General Program Information#600.3 Definitions|600.3 Definitions]]
+- [[600 General Program Information#600.5 Definitions|600.5 Definitions]]
 
 ## 600.1 Program Summary
 1. **Purpose:** The Texas Local Park Grants Programs provide matching fund grant assistance to local political subdivisions of the state for the acquisition and development of public recreation areas and facilities and programmatic grants through the Community Outdoor Outreach Program.
@@ -215,7 +215,7 @@
    Sec. 24.062. AUTHORITY OF LARGE COUNTY OR MUNICIPALITY TO HAVE PARKS. This subchapter does not authorize a large county or municipality to acquire, develop, maintain, or operate a park, recreational area, open space area, or natural area.
    ```
 
-## 600.3 Definitions
+## 600.5 Definitions
 The definitions given below apply to terms used in this Manual.
 
 - ACCRUED EXPENDITURES. The charges incurred by the grantee during a given period requiring the provision of funds for: (1) goods and other tangible property received; (2) services performed by the employees, contractors, sub-grantees, and other payees; and (3) amounts becoming owed under projects for which no current services or performance are required
