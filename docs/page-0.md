@@ -5,16 +5,16 @@
 Version: January 25, 2008
 
 ## Table of Contents
-- [[600 General Program Information]]
-  - [[600 General Program Information#600.1 Program Summary|600.1 Program Summary]]
-  - [[600 General Program Information#600.2 Legislative Basis|600.2 Legislative Basis]]
-  - [[600 General Program Information#600.5 Definitions|600.5 Definitions]]
-- [[640 Acquisition & Development]]
+- [[600-General-Program-Information]]
+  - [[600-General-Program-Information#600.1 Program Summary|600.1 Program Summary]]
+  - [[600-General-Program-Information#600.2 Legislative Basis|600.2 Legislative Basis]]
+  - [[600-General-Program-Information#600.5 Definitions|600.5 Definitions]]
+- [[640-Acquisition-Development]]
   - [[640.1 General Project Criteria]]
   - [[640.2 Acquisition Criteria]]
   - [[640.3 Development Criteria]]
   - [[640.4 Community Outdoor Outreach Program Criteria]]
-- [[650 Project Compliance]]
+- [[650-Project-Compliance]]
   - [[650.1 General Compliance]]
   - [[650.2 Environmental Compliance (NEPA)]]
   - [[650.2A TPWD Environmental Policy]]
