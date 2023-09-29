@@ -1,7 +1,9 @@
 # 600 General Program Information
-- [[600 General Program Information#600.1 Program Summary|600.1 Program Summary]]
-- [[600 General Program Information#600.2 Legislative Basis|600.2 Legislative Basis]]
-- [[600 General Program Information#600.5 Definitions|600.5 Definitions]]
+- [600 General Program Information](#600-general-program-information)
+  - [600.1 Program Summary](#6001-program-summary)
+  - [600.2 Legislative Basis](#6002-legislative-basis)
+  - [600.5 Definitions](#6005-definitions)
+
 
 ## 600.1 Program Summary
 1. **Purpose:** The Texas Local Park Grants Programs provide matching fund grant assistance to local political subdivisions of the state for the acquisition and development of public recreation areas and facilities and programmatic grants through the Community Outdoor Outreach Program.
@@ -322,5 +324,6 @@ The definitions given below apply to terms used in this Manual.
 - UPARR. A federal grant assistance program called the Urban Park and Recreation Recovery Act Program.
 - WAIVER OF RETROACTIVITY. An administrative alternative allowing acquisition of lands prior to grant approval and Department authorization which maintains program reimbursement eligibility.
 - WITHDRAWAL. The unilateral retraction by the Department of (1) a previously approved project prior to reimbursement of any project costs incurred by the project sponsor, or (2) an application prior to scoring.
+
 
 
